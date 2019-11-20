@@ -2,7 +2,10 @@
 title: Data Analytics Portfolio
 ---
 
-## Welcome to GitHub Pages
+# My adventures as a aspiring Data Analyst
+
+My name is Ileana. 
+Currently, I am living a fun stage in my life. I am pursuing
 
 You can use the [editor on GitHub](https://github.com/ilese99/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
