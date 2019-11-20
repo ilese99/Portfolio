@@ -7,3 +7,11 @@ Currently, I am living a fun stage in my life. I am pursuing a career in Data.
 [Data Analytics projects](projects)
 
 
+```python
+import pandas as pd
+
+# insert your code here
+def function_1(param):
+    return blank
+
+´´´
