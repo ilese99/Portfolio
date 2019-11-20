@@ -1,6 +1,4 @@
----
-title: Data Analytics Portfolio
----
+
 
 # My adventures as an aspiring Data Analyst
 
